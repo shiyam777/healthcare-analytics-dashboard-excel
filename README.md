@@ -92,7 +92,7 @@ The dashboard helps analyze patient health conditions, healthcare charges, smoki
 ---
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+Healthcare dashboard.png
 
 ---
 
