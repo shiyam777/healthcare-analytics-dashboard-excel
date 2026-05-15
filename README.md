@@ -83,7 +83,7 @@ The dashboard helps understand patterns in BMI, diabetes status, smoking habits,
 
 ## 📷 Dashboard Preview
 
-![Healthcare Dashboard](Healthcare dashboard.png)
+![Healthcare Dashboard](dashboard.png)
 
 ---
 
